@@ -46,8 +46,9 @@ function App() {
 
      
      <Triangle/>
+    
       <EmailSignup/>
-       
+     
         
         
      
