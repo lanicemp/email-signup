@@ -1,0 +1,10 @@
+-[x] add an email validation  
+-[x] add the link for privacy policy 
+-[x] signup button
+-[x] exact fontsize 
+-[x] email icon
+-[x] background color
+-[x] fix button styling
+-[x] input width 
+-[x] add color to button 
+-[x] font - futura
